@@ -6,11 +6,18 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mandibuleen)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
 
+### 👤 About Me
 I've spent 20+ years building the platforms other engineers build on — API governance at enterprise scale, developer tooling, and the standards work underneath both. I hold a seat on the **OpenAPI Technical Steering Committee**, where I help shape the specification that most of the industry's API tooling depends on.
 
-Before that: **Postman**, as a technical trainer and API solutions architect for Fortune 500 customers. Before that: six years leading the **API Center of Excellence at Delta Air Lines**, where I built the governance program covering 300+ production APIs. And before that, nearly two decades at **Hewlett-Packard / DXC Technology**, including early container platform work.
+### 💼 Professional Experience
+- **Postman** Sr. Platform Engineer / Technical Trainer · 2024–2026 Built a cloud-native, event-driven API sandbox education platform on AWS serverless
+- **Delta Air Kines** API Portfolio Architect · 2022–2023 Led design of the internal API Catalog on Backstage, owning the API Acceleration product roadmap across engineering, product, and security.
 
 These days I'm applying the same systems thinking to agent infrastructure — treating coding agents as orchestrated teammates whose protocols, evals, and plumbing need real engineering, not prompt tinkering.
+
+---
+
+### 🛠️ Skills
 
 ---
 
