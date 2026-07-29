@@ -1,55 +1,54 @@
 # Miguel Quintero
 
-## Senior Software Engineer | API Platforms | Developer Experience | OpenAPI TSC
-
-Hello! I'm Miguel Quintero, a senior software engineer, technical trainer, and architect based in Atlanta, Georgia. I build and teach practical approaches to API platforms, API design, APIOps, developer experience, DevSecOps, and open source.
-
-### 👤 About Me
+**Principal API Platform Engineer** · OpenAPI Technical Steering Committee · Atlanta, GA
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miqui)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mandibuleen)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
 
-### 💼 Professional Experience
+I've spent 20+ years building the platforms other engineers build on — API governance at enterprise scale, developer tooling, and the standards work underneath both. I hold a seat on the **OpenAPI Technical Steering Committee**, where I help shape the specification that most of the industry's API tooling depends on.
 
-- Senior Software Engineer, Technical Trainer, and Architect
-- API platform engineering and API design
-- APIOps, developer experience, DevSecOps, and open-source practices
-- OpenAPI Technical Steering Committee
+Before that: **Postman**, as a technical trainer and API solutions architect for Fortune 500 customers. Before that: six years leading the **API Center of Excellence at Delta Air Lines**, where I built the governance program covering 300+ production APIs. And before that, nearly two decades at **Hewlett-Packard / DXC Technology**, including early container platform work.
 
-### 🛠️ Skills
+These days I'm applying the same systems thinking to agent infrastructure — treating coding agents as orchestrated teammates whose protocols, evals, and plumbing need real engineering, not prompt tinkering.
 
-- **API Architecture and Design**
-- **OpenAPI and API Governance**
-- **API Platform Engineering and APIOps**
-- **Developer Experience and Technical Enablement**
-- **DevSecOps and Delivery Automation**
-- **REST, gRPC, and API Tooling**
-- **Cloud and Infrastructure Automation**
-- **Agentic Engineering Workflows**
+---
 
-### 🚀 Recent Projects
+## What I Work On
 
-#### [Hermes Skills Backup](https://github.com/miqui/hermes-skills-backup) ![GitHub stars](https://img.shields.io/github/stars/miqui/hermes-skills-backup?style=social)
+**API platform engineering** — governance programs, style guides that teams actually follow, linting and validation in CI, and the org design that makes standards stick past the first quarter.
 
-Versioned, profile-aware Hermes Agent skills snapshots with safe manual restore and approval-gated validation.
+**OpenAPI and specification work** — spec authoring, Overlay, Spectral rulesets, contract testing, and upstream contribution to the specification itself.
 
-#### [gRPC API Buf Example](https://github.com/miqui/grpc-api-buf-example) ![GitHub stars](https://img.shields.io/github/stars/miqui/grpc-api-buf-example?style=social)
+**Developer experience** — internal tooling, golden paths, and enablement programs measured by adoption rather than documentation page count.
 
-A hello-world scoped gRPC API in Python using Buf, with local code generation, tests, and CI.
+**Agentic engineering workflows** — multi-agent orchestration, agent configuration standards (`AGENTS.md`, `CLAUDE.md`), skills authoring, and eval harnesses for agent reliability.
 
-#### [New Relic API Custom Attributes](https://github.com/miqui/new-relic-api-custom-attribs) ![GitHub stars](https://img.shields.io/github/stars/miqui/new-relic-api-custom-attribs?style=social)
+**Delivery and security** — DevSecOps pipelines, OAuth/OIDC/JWT architecture, REST and gRPC design, and cloud infrastructure automation.
 
-REST API quality signals, NRQL queries, and an OpenAPI overlay pattern for deprecation tracking.
+---
 
-#### [Learn Spectral](https://github.com/miqui/learn-spectral) ![GitHub stars](https://img.shields.io/github/stars/miqui/learn-spectral?style=social)
+## Selected Work
 
-Notes and experiments for working with the Spectral API linter.
+**[Hermes Skills Backup](https://github.com/miqui/hermes-skills-backup)**
+Versioned, profile-aware snapshots of Hermes Agent skills, with safe manual restore and approval-gated validation. Built because agent capabilities need the same change-control discipline as any other production configuration.
 
-#### [OpenAPI Overlay Notes](https://github.com/miqui/OpenAPI-overlay-notes) ![GitHub stars](https://img.shields.io/github/stars/miqui/OpenAPI-overlay-notes?style=social)
+**[New Relic API Custom Attributes](https://github.com/miqui/new-relic-api-custom-attribs)**
+REST API quality signals, NRQL queries, and an OpenAPI Overlay pattern for tracking deprecation. A working answer to "how do you actually observe API governance at runtime?"
 
-Notes on the OpenAPI Overlay specification.
+**[gRPC API Buf Example](https://github.com/miqui/grpc-api-buf-example)**
+A deliberately hello-world-scoped gRPC API in Python using Buf — local codegen, tests, and CI. A reference for teams evaluating Buf without wading through a production codebase.
 
-### 📰 Current Focus
+**[Learn Spectral](https://github.com/miqui/learn-spectral)**
+Notes and experiments for the Spectral API linter, from first rule to enforceable ruleset.
 
-I am interested in practical API standards, robust developer tooling, and reproducible agent workflows that help engineering teams work with clarity and confidence.
+**[OpenAPI Overlay Notes](https://github.com/miqui/OpenAPI-overlay-notes)**
+Working notes on the OpenAPI Overlay specification.
+
+---
+
+## Currently
+
+Building out a multi-agent orchestration system on a local home lab — Claude Code as orchestrator, tmux session management, Unix socket IPC, local inference, and DeepEval harnesses to measure whether any of it actually works. Most of what I learn there ends up as notes, skills, or upstream spec contributions.
+
+**Open to conversations** about API platform strategy, OpenAPI standards work, and developer infrastructure for agentic systems. Reach me on [X](https://x.com/mandibuleen) or open an issue on any repo here.
