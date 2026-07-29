@@ -1,72 +1,55 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:14b8a6&height=180&section=header&text=Miguel%20Quintero&fontSize=48&fontColor=f8fafc&fontAlignY=35&desc=APIs%20%C2%B7%20Developer%20Experience%20%C2%B7%20Open%20Source&descAlignY=55&descSize=18" alt="Miguel Quintero — APIs, Developer Experience, Open Source" />
+# Miguel Quintero
 
-  <h3>Senior Software Engineer · Technical Trainer · Architect</h3>
-  <p>
-    Building thoughtful API platforms, developer experiences, and open-source tooling.
-  </p>
-  <p>
-    <a href="https://github.com/miqui"><img src="https://img.shields.io/badge/GitHub-miqui-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <a href="https://x.com/mandibuleen"><img src="https://img.shields.io/badge/X-@mandibuleen-000000?style=for-the-badge&logo=x" alt="X" /></a>
-    <a href="https://www.openapis.org/"><img src="https://img.shields.io/badge/OpenAPI-Community-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" /></a>
-  </p>
-</div>
+## Senior Software Engineer | API Platforms | Developer Experience | OpenAPI TSC
 
-## Hello, world 👋
+Hello! I'm Miguel Quintero, a senior software engineer, technical trainer, and architect based in Atlanta, Georgia. I build and teach practical approaches to API platforms, API design, APIOps, developer experience, DevSecOps, and open source.
 
-I'm Miguel, a software engineer and technical trainer based in **Atlanta, Georgia**. My work sits at the intersection of **API platforms**, **API design**, **APIOps**, **developer experience**, and **DevSecOps**. I am also involved with the **OpenAPI Technical Steering Committee**.
+### 👤 About Me
 
-I enjoy turning complex platform concerns into practical, well-documented tools and workflows that help teams ship with confidence.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miqui)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mandibuleen)
+[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
 
-## What I focus on
+### 💼 Professional Experience
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>API platforms &amp; design</h3>
-      <p>OpenAPI-driven design, API governance, and reusable platform capabilities.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Developer experience</h3>
-      <p>Clear tooling, documentation, automation, and feedback loops for developers.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Reliable delivery</h3>
-      <p>APIOps, DevSecOps, and infrastructure practices that make delivery safer and repeatable.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Agentic engineering</h3>
-      <p>Practical AI-agent workflows, skills, and tools that strengthen—not replace—engineering discipline.</p>
-    </td>
-  </tr>
-</table>
+- Senior Software Engineer, Technical Trainer, and Architect
+- API platform engineering and API design
+- APIOps, developer experience, DevSecOps, and open-source practices
+- OpenAPI Technical Steering Committee
 
-## Featured work
+### 🛠️ Skills
 
-| Project | What it is |
-| --- | --- |
-| [**Hermes Skills Backup**](https://github.com/miqui/hermes-skills-backup) | Versioned, profile-aware snapshots for Hermes Agent skills with safe manual restore and approval-gated validation. |
-| [**D3 Hermes Skill Corpus**](https://github.com/miqui/d3-hermes-skill-corpus) | A local, Dockerized D3 hierarchy explorer for a Hermes skill corpus. |
-| [**AWS Terraform S3 Lockfile**](https://github.com/miqui/aws-terraf-new-s3-lockfile) | Terraform infrastructure for an AWS Lambda and API Gateway HTTP API using native S3 state lockfiles. |
-| [**Heyman CLI**](https://github.com/miqui/heyman-cli) | A small Python CLI wrapper around `man` that disables pagers and produces clean plain-text output for AI agents. |
+- **API Architecture and Design**
+- **OpenAPI and API Governance**
+- **API Platform Engineering and APIOps**
+- **Developer Experience and Technical Enablement**
+- **DevSecOps and Delivery Automation**
+- **REST, gRPC, and API Tooling**
+- **Cloud and Infrastructure Automation**
+- **Agentic Engineering Workflows**
 
-## Open source &amp; community
+### 🚀 Recent Projects
 
-- **OpenAPI Technical Steering Committee**
-- Interested in open standards, robust API ecosystems, and maintainable automation.
-- Sharing experiments and practical infrastructure patterns in public repositories.
+#### [Hermes Skills Backup](https://github.com/miqui/hermes-skills-backup) ![GitHub stars](https://img.shields.io/github/stars/miqui/hermes-skills-backup?style=social)
 
-## Let's connect
+Versioned, profile-aware Hermes Agent skills snapshots with safe manual restore and approval-gated validation.
 
-If you're working on API platforms, developer tooling, OpenAPI, or agentic engineering, I'd be glad to compare notes.
+#### [gRPC API Buf Example](https://github.com/miqui/grpc-api-buf-example) ![GitHub stars](https://img.shields.io/github/stars/miqui/grpc-api-buf-example?style=social)
 
-- GitHub: [@miqui](https://github.com/miqui)
-- X: [@mandibuleen](https://x.com/mandibuleen)
+A hello-world scoped gRPC API in Python using Buf, with local code generation, tests, and CI.
 
----
+#### [New Relic API Custom Attributes](https://github.com/miqui/new-relic-api-custom-attribs) ![GitHub stars](https://img.shields.io/github/stars/miqui/new-relic-api-custom-attribs?style=social)
 
-<div align="center">
-  <sub>Built around useful engineering, clear interfaces, and a healthy respect for production.</sub>
-</div>
+REST API quality signals, NRQL queries, and an OpenAPI overlay pattern for deprecation tracking.
+
+#### [Learn Spectral](https://github.com/miqui/learn-spectral) ![GitHub stars](https://img.shields.io/github/stars/miqui/learn-spectral?style=social)
+
+Notes and experiments for working with the Spectral API linter.
+
+#### [OpenAPI Overlay Notes](https://github.com/miqui/OpenAPI-overlay-notes) ![GitHub stars](https://img.shields.io/github/stars/miqui/OpenAPI-overlay-notes?style=social)
+
+Notes on the OpenAPI Overlay specification.
+
+### 📰 Current Focus
+
+I am interested in practical API standards, robust developer tooling, and reproducible agent workflows that help engineering teams work with clarity and confidence.
