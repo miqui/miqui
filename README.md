@@ -10,8 +10,13 @@
 I've spent 20+ years building the platforms other engineers build on — API governance at enterprise scale, developer tooling, and the standards work underneath both. I hold a seat on the **OpenAPI Technical Steering Committee**, where I help shape the specification that most of the industry's API tooling depends on.
 
 ### 💼 Professional Experience
-- **Postman** Sr. Platform Engineer / Technical Trainer · 2024–2026 Built a cloud-native, event-driven API sandbox education platform on AWS serverless
-- **Delta Air Kines** API Portfolio Architect · 2022–2023 Led design of the internal API Catalog on Backstage, owning the API Acceleration product roadmap across engineering, product, and security.
+- **Postman** Sr. Platform Engineer / Technical Trainer
+    - Built a cloud-native, event-driven API sandbox education platform on AWS serverless
+    - Authored the API lifecycle training that enterprise customers used to standardize workflows across hundreds of APIs.
+- **Delta Air Lines** API Portfolio Architect
+    - Led the API Acceleration product roadmap across engineering, product, and security.
+    - Defined Delta's API design strategy and governance framework
+- Hewlett-Packard / DXC Technology · Sr. Software Engineer / Architect Pioneered an enterprise container-as-a-service offering on Composable Infrastructure and Redfish APIs. Championed DevOps, IaC, and API-first practices across international engineering organizations.
 
 These days I'm applying the same systems thinking to agent infrastructure — treating coding agents as orchestrated teammates whose protocols, evals, and plumbing need real engineering, not prompt tinkering.
 
