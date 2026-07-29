@@ -22,7 +22,7 @@ These days I'm applying the same systems thinking to agent infrastructure — tr
 
 ---
 
-### Skills
+### 🛠️ Skills
 
 #### API Architecture & Design
 RESTful API Design · GraphQL · AsyncAPI · OpenAPI Specification (OAS) — TSC member · API Governance Frameworks · API Lifecycle Management · API Strategy · Microservices Architecture · Event-Driven Architecture · Domain-Driven Design
