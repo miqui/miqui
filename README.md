@@ -2,7 +2,7 @@
 
 **Principal API Platform Engineer** · OpenAPI Technical Steering Committee · Atlanta, GA
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-quintero-a558531/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mandibuleen)
 [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
 
@@ -22,7 +22,28 @@ These days I'm applying the same systems thinking to agent infrastructure — tr
 
 ---
 
-### 🛠️ Skills
+### Skills
+
+#### API Architecture & Design
+RESTful API Design · GraphQL · AsyncAPI · OpenAPI Specification (OAS) — TSC member · API Governance Frameworks · API Lifecycle Management · API Strategy · Microservices Architecture · Event-Driven Architecture · Domain-Driven Design
+
+#### AI Development & Productivity
+Model Context Protocol (MCP) · Agentic API Workflows · Tool-Calling Patterns · Multi-Agent Developer Automation · AI-Assisted API Development · Claude Code CLI · Cursor · GitHub Copilot · Gemini · OpenAI/Codex · Hermes · Nanoclaw
+
+#### Cloud Platforms & Infrastructure
+**AWS** — Lambda, API Gateway, EKS, ECS, EC2, S3, RDS, DynamoDB, Step Functions, CloudFormation, CDK
+**Containers & PaaS** — Kubernetes, Red Hat OpenShift, ROSA, CloudFoundry, Heroku
+**Infrastructure as Code** — Terraform, Ansible, Crossplane
+**Patterns** — Cloud-Native Architecture, Serverless Architecture
+
+#### Security & DevSecOps
+API Security Best Practices · OAuth 2.0 · JSON Web Tokens (JWT) · OWASP API Security Top 10 · Zero Trust Architecture · PII Identification & Handling · DevSecOps CI/CD Automation · GitOps · Security Compliance
+
+#### API Tools & Platforms
+Postman API Platform · SwaggerHub · Stoplight · Spectral · Backstage · Docker · Kubernetes · Jenkins · Tekton · Argo CD · AWS CodePipeline · Git / GitHub / GitLab · Prisma · Veracode · Fortify · SonarQube
+
+#### Technical Leadership
+Solution Architecture · Enterprise Architecture · Cross-Functional Team Leadership · Stakeholder Management · Technical Training & Mentorship · Developer Experience (DX) · Developer Advocacy · API Community Building
 
 ---
 
@@ -47,15 +68,6 @@ Versioned, profile-aware snapshots of Hermes Agent skills, with safe manual rest
 
 **[New Relic API Custom Attributes](https://github.com/miqui/new-relic-api-custom-attribs)**
 REST API quality signals, NRQL queries, and an OpenAPI Overlay pattern for tracking deprecation. A working answer to "how do you actually observe API governance at runtime?"
-
-**[gRPC API Buf Example](https://github.com/miqui/grpc-api-buf-example)**
-A deliberately hello-world-scoped gRPC API in Python using Buf — local codegen, tests, and CI. A reference for teams evaluating Buf without wading through a production codebase.
-
-**[Learn Spectral](https://github.com/miqui/learn-spectral)**
-Notes and experiments for the Spectral API linter, from first rule to enforceable ruleset.
-
-**[OpenAPI Overlay Notes](https://github.com/miqui/OpenAPI-overlay-notes)**
-Working notes on the OpenAPI Overlay specification.
 
 ---
 
