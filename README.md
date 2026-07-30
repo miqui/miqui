@@ -69,6 +69,9 @@ Versioned, profile-aware snapshots of Hermes Agent skills, with safe manual rest
 **[New Relic API Custom Attributes](https://github.com/miqui/new-relic-api-custom-attribs)**
 REST API quality signals, NRQL queries, and an OpenAPI Overlay pattern for tracking deprecation. A working answer to "how do you actually observe API governance at runtime?"
 
+**[OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/)**
+The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for HTTP APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
+
 ---
 
 ## Currently
