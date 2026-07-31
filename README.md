@@ -72,6 +72,9 @@ REST API quality signals, NRQL queries, and an OpenAPI Overlay pattern for track
 **[OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/)**
 The OpenAPI Specification (OAS) defines a standard, programming language-agnostic interface description for HTTP APIs, which allows both humans and computers to discover and understand the capabilities of a service without requiring access to source code, additional documentation, or inspection of network traffic.
 
+**[Hermes Skill Explorer](https://github.com/miqui/d3-hermes-skill-corpus)**
+Hermes skills explorer.
+
 ---
 
 ## Currently
