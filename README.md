@@ -1,6 +1,6 @@
 # Miguel Quintero
 
-**Principal API Platform Engineer** · OpenAPI Technical Steering Committee · Atlanta, GA
+**Principal API/AI Platform Engineer** · OpenAPI Technical Steering Committee · Atlanta, GA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-quintero-a558531/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mandibuleen)
