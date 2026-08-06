@@ -63,7 +63,7 @@ Solution Architecture · Enterprise Architecture · Cross-Functional Team Leader
 
 ## Selected Work
 
-**[Hermes engineering loop](https://github.com/miqui/loop-engineering)**
+**[Hermes Engineering Loop](https://github.com/miqui/loop-engineering)**
 
 **[Hermes Skills Backup](https://github.com/miqui/hermes-skills-backup)**
 Versioned, profile-aware snapshots of Hermes Agent skills, with safe manual restore and approval-gated validation. Built because agent capabilities need the same change-control discipline as any other production configuration.
