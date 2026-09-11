@@ -16,7 +16,9 @@ I've spent 20+ years building the platforms other engineers build on — API gov
 - **Delta Air Lines** API Portfolio Architect
     - Led the API Acceleration product roadmap across engineering, product, and security.
     - Defined Delta's API design strategy and governance framework
-- Hewlett-Packard / DXC Technology · Sr. Software Engineer / Architect Pioneered an enterprise container-as-a-service offering on Composable Infrastructure and Redfish APIs. Championed DevOps, IaC, and API-first practices across international engineering organizations.
+- Hewlett-Packard / DXC Technology · Sr. Software Engineer / Architect
+    - Pioneered an enterprise container-as-a-service offering on Composable Infrastructure and Redfish APIs. Championed DevOps, IaC, and API-first practices across international engineering organizations.
+    - HP Forj (originally accessible at forj.io) is a landmark case study in the DevOps and InnerSource movement. It represents a project that was specifically built to enable open-source collaboration methodologies inside the company's private firewall, which later transitioned into a public open-source project
 
 These days I'm applying the same systems thinking to agent infrastructure — treating coding agents as orchestrated teammates whose protocols, evals, and plumbing need real engineering, not prompt tinkering.
 
