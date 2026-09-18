@@ -65,7 +65,10 @@ Solution Architecture · Enterprise Architecture · Cross-Functional Team Leader
 
 ## Selected Work
 
-**[Hermes Engineering Loop](https://github.com/miqui/loop-engineering)**
+**[GrahpQL over HTTP](https://github.com/miqui/graphql-over-http)**
+
+**[LLM gw Kind](https://github.com/miqui/kind-llm-gateway)**
+An LLM gateway and policy lab on a local Kind cluster: a purpose-built Go gateway (llmgw) enforcing the operational contract around AI
 
 **[Hermes Skills Backup](https://github.com/miqui/hermes-skills-backup)**
 Versioned, profile-aware snapshots of Hermes Agent skills, with safe manual restore and approval-gated validation. Built because agent capabilities need the same change-control discipline as any other production configuration.
