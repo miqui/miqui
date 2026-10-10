@@ -65,6 +65,8 @@ Solution Architecture · Enterprise Architecture · Cross-Functional Team Leader
 
 ## Selected Work
 
+**[OpenLint](https://github.com/openlint/openlint)**
+
 **[GrahpQL over HTTP](https://github.com/miqui/graphql-over-http)**
 
 **[LLM gw Kind](https://github.com/miqui/kind-llm-gateway)**
